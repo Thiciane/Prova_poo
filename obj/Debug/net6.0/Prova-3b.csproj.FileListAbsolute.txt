@@ -1,0 +1,15 @@
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\bin\Debug\net6.0\Prova-3b.exe
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\bin\Debug\net6.0\Prova-3b.deps.json
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\bin\Debug\net6.0\Prova-3b.runtimeconfig.json
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\bin\Debug\net6.0\Prova-3b.dll
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\bin\Debug\net6.0\Prova-3b.pdb
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.csproj.AssemblyReference.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.AssemblyInfoInputs.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.AssemblyInfo.cs
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.csproj.CoreCompileInputs.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.dll
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\refint\Prova-3b.dll
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.pdb
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\Prova-3b.genruntimeconfig.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\Prova-3b\obj\Debug\net6.0\ref\Prova-3b.dll
